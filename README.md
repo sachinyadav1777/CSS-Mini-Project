@@ -13,17 +13,24 @@ No JavaScript required
 
 🛠️ Technologies Used
 
-HTML5
-CSS3
-Google Fonts (Poppins)
-Font Awesome
+-HTML5
+
+-CSS3
+
+-Google Fonts (Poppins)
+
+-Font Awesome
 
 📂 Project Structure
 
 Photography-Sidebar-Menu/
+
 ├── index.html
+
 ├── style.css
+
 ├── photo.jpg
+
 └── README.md
 
 
